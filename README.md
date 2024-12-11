@@ -1,2 +1,1 @@
-# men-poc-net8-wasm
-WebAssembly + Contentful solution
+# ASP.NET Core WebAssembly Website with Contentful
